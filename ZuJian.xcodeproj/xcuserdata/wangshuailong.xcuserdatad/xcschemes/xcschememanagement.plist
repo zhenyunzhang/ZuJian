@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>OneDayExtension.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>ZJWidIntentExtension.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>11</integer>
+		</dict>
+		<key>ZJWidPackExtension.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>isShown</key>
+			<true/>
+			<key>orderHint</key>
+			<integer>7</integer>
+		</dict>
+		<key>ZuJian.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>8</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>BC367EAA253D3947005FAE3D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BC367EC5253D394E005FAE3D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BC367ED0253D394E005FAE3D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BC367EE9253D39A8005FAE3D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BCD01273253E8B7900ED3F70</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
